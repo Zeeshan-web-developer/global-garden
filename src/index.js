@@ -1,14 +1,8 @@
-/**
- * @Author: ZEESHAN AHMAD
- * @Date:   2021-10-25 07:41:34
- * @Last Modified by:   ZEESHAN AHMAD
- * @Last Modified time: 2021-10-26 21:38:29
- */
+
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
-import App from "./App";
-import Update from "./Update";
+import App from "./app/App";
+import Update from "./pages/updatestudent/Update";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import { Provider } from "react-redux";

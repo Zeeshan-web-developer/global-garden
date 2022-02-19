@@ -1,9 +1,4 @@
-/**
- * @Author: ZEESHAN AHMAD
- * @Date:   2021-10-26 04:35:02
- * @Last Modified by:   ZEESHAN AHMAD
- * @Last Modified time: 2021-10-27 00:53:38
- */
+
 import axios from "../api/index";
 import store from "../redux/store";
 import { positions } from "react-alert";
